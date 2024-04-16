@@ -11,7 +11,7 @@
             text-align: center;
         }
         nav {
-            background-color: #444;
+            background-color: ffa765;
             padding: 10px 0;
             text-align: center;
         }
@@ -26,18 +26,11 @@
         section {
             padding: 20px;
         }
-
-@font-face {
-  font-family: 'Visibly Round';
-  src: url() format('woff2'),
-       url('path/to/visibly-round.woff') format('woff');
-  /* Add additional font formats if needed */
-}
         
         h1 {
-            font-family: 'Visibly Round', sans-serif;
+            font-family: Arial, sans-serif;
+            font-family: , sans-serif;
             text-align: center;
-            text-
             color: #ff903d;
         }
         p {
